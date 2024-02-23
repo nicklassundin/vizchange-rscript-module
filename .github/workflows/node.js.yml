@@ -6,7 +6,7 @@ name: Rscript build release
 on:
   release:
     # Must republish release to update assets
-    types: [ published ]
+    types: [ release ]
 
 jobs:
   release-file-system-image:
