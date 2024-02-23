@@ -6,5 +6,4 @@ URL: https://github.com/nicklassundin/vizchange-rscript-module
 License: Apache License 2.0 + file
 Author: Nicklas Sundin
 Maintainer: Nicklas Sundin
-
 Description: Calculate the change between two values
